@@ -1,0 +1,5 @@
+vietocr
+torch
+torchvision
+fastapi
+uvicorn

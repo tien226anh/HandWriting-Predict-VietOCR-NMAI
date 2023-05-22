@@ -5,7 +5,7 @@ cd product
 mkdir weights
 ```
 
-Using VietOCR repo to train custom weights and add that weight file to `weights` folder.
+Using VietOCR repository of `pbcquoc` to train custom weights and add that weight file to `weights` folder.
 
 ## Run Backend
   ```bash

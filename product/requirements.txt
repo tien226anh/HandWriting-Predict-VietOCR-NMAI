@@ -3,3 +3,5 @@ torch
 torchvision
 fastapi
 uvicorn
+pyyaml
+python-multipart
